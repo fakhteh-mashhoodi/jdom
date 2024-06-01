@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server>
+    <server_config_1>
+        <ip>localhost</ip>
+        <port>3306</port>
+        <user>root</user>
+        <pass>1234abcd</pass>
+        <database>j2se</database>
+    </server_config_1>
+</server>
